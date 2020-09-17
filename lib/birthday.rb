@@ -7,7 +7,8 @@
 def happy_birthday(birthday_kids)
   # add your code snippet here!
   
-  birthday_kids.each do ||
+  birthday_kids.each do |kinds_name, age|
+    puts 
   
   
 end
